@@ -21,8 +21,10 @@ Tools & Software: Vivado · Makerchip · SolidWorks · Arduino · Git
 💼 Experience
 Circuit Design Engineer — Redwood EDA (May 2026 – Present)
 Developing TL-Verilog circuit designs with Makerchip and pre-market AI-accelerated EDA tooling. Collaborating with industry experts on open-source semiconductor infrastructure.
+
 Embedded Systems Intern — UW PNCEL Lab (Mar 2026 – Present)
 Profiling and optimizing large AI model inference workloads on NVIDIA GPUs using PyTorch Profiler, analyzing latency, throughput, memory usage, and hardware bottlenecks to better understand real-world system performance. Working on hardware systems research involving configurable chip architectures and low-level design concepts.
+
 Co-Founder & Research Lead — ReJuvaFlow (Aug 2023 – Present)
 Authored technical documentation for grant submissions. Designed three CAD prototypes of biodegradable blood storage devices in SolidWorks.
 Research Intern — UC Santa Cruz Science Internship Program (Jun – Aug 2023)
