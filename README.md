@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rutvi Pota 👋</h1>
+<h1 align="center">Hi, I'm Rutvi Pota </h1>
 
 <p align="center">
   <b>Electrical & Computer Engineering @ University of Washington</b><br>
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an ECE student at the University of Washington with a focus on VLSI/hardware design and embedded systems. I enjoy working across the full hardware stack — from RTL design and ASIC tape-out pipelines to firmware development and physical prototyping.
+I'm an ECE student at the University of Washington with a focus on VLSI/hardware design and embedded systems. I enjoy working across the full hardware stack, from RTL design and ASIC tape-out pipelines to firmware development and physical prototyping.
 
 Currently contributing to a **TSMC 180nm ASIC tape-out** and an **AI accelerator chip** at the UW PNCEL Lab, and developing advanced TL-Verilog circuit designs at **Redwood EDA** using next-generation AI-accelerated EDA tools.
 
